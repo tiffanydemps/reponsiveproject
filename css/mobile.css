@@ -1,0 +1,33 @@
+
+@media only screen and (max-width:400px){
+
+  div {
+    background-color:rgba(255, 255, 255, 0.19);
+    max-width: 40rem;
+    max-height: 200rem;
+    margin: 0 auto;
+    columns: 1;
+    column-rule-style: double;
+    text-color: rgb(28, 40, 51);
+    border-radius: 1px;
+  }
+h1 {
+  font-size: 35px;
+}
+
+img {
+  width: 100%;
+}
+
+  body {
+    font-size: 1.25rem;
+  }
+
+
+img{
+column-width: 200px;
+}
+
+}
+
+}
